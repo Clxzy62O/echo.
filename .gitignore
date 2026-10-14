@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+config.json
+data/
+coverage/
+*.log
+.DS_Store
+config.example.json
+.gitignore
